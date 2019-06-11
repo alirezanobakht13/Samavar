@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Samavar"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Samavar">
+				<Option output="C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Samavar.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Samavar"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Samavar/fast">
+				<Option output="C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Samavar.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="C:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Samavar/fast"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/Jarvis/Desktop/Samavar-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Person/Person.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Person/Person.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Sports/BBVB.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Sports/BBVB.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Sports/PingPong.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Sports/PingPong.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Sports/Sport.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Sports/Sport.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Sports/Wrestling.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Sports/Wrestling.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/StoreAndRestore/StoreAndRestore.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/StoreAndRestore/StoreAndRestore.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/TournamentStuf/Match.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/TournamentStuf/Match.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/TournamentStuf/Team.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/TournamentStuf/Team.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/TournamentStuf/Tournament.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/TournamentStuf/Tournament.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Utilities/MyDate.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Utilities/MyDate.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Utilities/MyTime.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/Utilities/MyTime.h">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/main.cpp">
+			<Option target="Samavar"/>
+		</Unit>
+		<Unit filename="C:/Users/Jarvis/Desktop/Samavar-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
